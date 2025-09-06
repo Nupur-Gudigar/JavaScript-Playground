@@ -1,0 +1,13 @@
+console.log("==================================")
+console.log("   🐔DAVE'S HOT CHICKEN RECEIPT   ")
+console.log("----------------------------------")
+console.log("           Order Details          ")
+console.log("----------------------------------")
+console.log("Item              Quantity   Price")
+console.log("----------------------------------")
+console.log("🍗 10pc Cauli Bites   1     10.99")
+console.log(" 🍟 w/ fries          1        0 ")
+console.log("----------------------------------")
+console.log("Total                       10.99 ")
+console.log("==================================")
+
